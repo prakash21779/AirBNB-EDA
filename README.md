@@ -1,5 +1,5 @@
 # AirBNB-EDA
-I have done Exploratory Data Analysis for this dataset and created visually appealing visualizations
+I have done Exploratory Data Analysis for this dataset and created visually appealing visualizations.
 ## Project Overview
 This data analysis project explores Airbnb listing data to uncover insights about pricing, accommodation types, and property characteristics.
 
