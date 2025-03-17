@@ -3,6 +3,11 @@ I have done Exploratory Data Analysis for this dataset and created visually appe
 ## Project Overview
 This data analysis project explores Airbnb listing data to uncover insights about pricing, accommodation types, and property characteristics.
 
+# Airbnb Price Analysis  
+Dataset: Kaggle Airbnb Listings  
+Tools: Python, Pandas, Matplotlib, Seaborn, Plotly  
+Goal: Analyze Airbnb prices, room types
+
 ## Key Features
 - Analyzed relationship between room types, pricing, and accommodation capacity
 - Explored distribution of bedrooms and bathrooms across different property types
